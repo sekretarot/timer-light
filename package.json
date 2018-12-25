@@ -1,0 +1,18 @@
+{
+  "name": "timer-light",
+  "version": "0.0.2",
+  "description": "Super lightweight timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "timer",
+    "lightweight",
+    "light",
+    "time",
+    "seconds"
+  ],
+  "author": "sekretarot",
+  "license": "MIT"
+}
